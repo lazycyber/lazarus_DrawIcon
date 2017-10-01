@@ -1,4 +1,4 @@
-<<<<<<< HEAD:__G_History.bat
+REM <<<<<<< HEAD:__G_History.bat
 @rem 
 @echo off
 
@@ -34,5 +34,5 @@ gitk
 REM START "title" "%git_path%\bin\wish.exe" "%git_path%\libexec\git-core\git-gui" "--working-dir" "%prj_path%"
 
 rem exit
->>>>>>> 98008173edd16a54791585366f7e4e9f208abd92:__G_History.bat
+REM >>>>>>> 98008173edd16a54791585366f7e4e9f208abd92:__G_History.bat
 rem pause
