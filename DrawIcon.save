@@ -1,0 +1,11 @@
+
+; ignore folders and files
+ignore_folder=lib/*
+ignore_folder=*.exe
+ignore_folder=utils/upx.exe
+ignore_folder=Relizes/*.exe
+
+ignore_folder=*.dll
+ignore_folder=Relizes/*.dll
+
+;
